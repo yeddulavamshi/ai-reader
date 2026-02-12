@@ -1,0 +1,16 @@
+# Global IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+**/.metadata/
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# Security (Block accidental root secrets)
+.env
+.env.local
+*.pem
