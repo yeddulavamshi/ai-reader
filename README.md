@@ -15,7 +15,13 @@ An AI-powered full-stack application that analyzes images and summarizes PDF doc
 
 ## ⚙️ Setup & Installation
 
-### 1. Clone the Repo
+### Clone the Repo
 ```bash
 git clone [https://github.com/yeddulavamshi/ai-reader.git](https://github.com/yeddulavamshi/ai-reader.git)
 cd ai-reader
+
+```
+## 🎥 Project Demo
+Watch the video below to see **AI-Reader** in action. This demo walks through the core functionality and shows how the application processes input in real-time.
+
+[]
