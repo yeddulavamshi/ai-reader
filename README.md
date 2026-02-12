@@ -24,4 +24,6 @@ cd ai-reader
 ## 🎥 Project Demo
 Watch the video below to see **AI-Reader** in action. This demo walks through the core functionality and shows how the application processes input in real-time.
 
-[]
+https://github.com/user-attachments/assets/40ff28f1-e12c-4e97-be83-e3695fdc90ca
+
+
